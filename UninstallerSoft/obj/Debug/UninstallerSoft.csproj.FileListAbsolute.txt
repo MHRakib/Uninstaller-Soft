@@ -1,0 +1,9 @@
+F:\C# project\UninstallerSoft\UninstallerSoft\bin\Debug\UninstallerSoft.exe.config
+F:\C# project\UninstallerSoft\UninstallerSoft\bin\Debug\UninstallerSoft.exe
+F:\C# project\UninstallerSoft\UninstallerSoft\bin\Debug\UninstallerSoft.pdb
+F:\C# project\UninstallerSoft\UninstallerSoft\obj\Debug\UninstallerSoft.csprojResolveAssemblyReference.cache
+F:\C# project\UninstallerSoft\UninstallerSoft\obj\Debug\UninstallerSoft.Form1.resources
+F:\C# project\UninstallerSoft\UninstallerSoft\obj\Debug\UninstallerSoft.Properties.Resources.resources
+F:\C# project\UninstallerSoft\UninstallerSoft\obj\Debug\UninstallerSoft.csproj.GenerateResource.Cache
+F:\C# project\UninstallerSoft\UninstallerSoft\obj\Debug\UninstallerSoft.exe
+F:\C# project\UninstallerSoft\UninstallerSoft\obj\Debug\UninstallerSoft.pdb
